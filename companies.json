@@ -1,0 +1,27 @@
+{
+	"companies": [{
+			"name": "Bell",
+			"city": "Montreal",
+			"province": "Quebec",
+			"image": "./imgs/bell.jpg"
+		},
+		{
+			"name": "Rogers",
+			"city": "Toronto",
+			"province": "Ontario",
+			"image": "./imgs/rogers.jpg"
+		},
+		{
+			"name": "SaskTel",
+			"city": "Regina",
+			"province": "Saskatchewan",
+			"image": "./imgs/sasktel.jpg"
+		},
+		{
+			"name": "Telus",
+			"city": "Vancouver",
+			"province": "British Columbia",
+			"image": "./imgs/telus.jpg"
+		}
+	]
+}
