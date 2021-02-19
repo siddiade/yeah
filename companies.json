@@ -1,3 +1,4 @@
+Access-Control-Allow-Origin: *;
 {
 	"companies": [{
 			"name": "Bell",
